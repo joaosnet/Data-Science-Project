@@ -10,6 +10,14 @@ In this listing, the host must describe the property's characteristics as thorou
 
 There are numerous customizations available for your listing, ranging from minimum stay requirements, price, number of rooms, to cancellation policies, extra fees for additional guests, identity verification requirements for renters, etc.
 
+## Screenshots
+
+### Screenshot 1: Property Map View
+
+![Property Map View](/screenshots/Property Map View.png)
+
+_Figure 1: Property Map View_
+
 ## Our Goal
 
 To build a price prediction model that allows an ordinary person who owns a property to determine how much they should charge for the daily rent of their property.
