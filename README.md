@@ -14,7 +14,7 @@ There are numerous customizations available for your listing, ranging from minim
 
 ### Screenshot 1: Property Map View
 
-![Property Map View](/screenshots/Property Map View.png)
+![Property Map View](/screenshots/Property-Map-View.png)
 
 _Figure 1: Property Map View_
 
