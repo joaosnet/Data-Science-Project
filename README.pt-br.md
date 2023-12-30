@@ -7,7 +7,7 @@
 ![Pull requests abertos do Bitbucket](https://img.shields.io/bitbucket/pr-raw/joaosnet/Data-Science-Project?style=for-the-badge)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/joaosnet/Data-Science-Project/blob/master/README.md)
 
-<!-- <img align="right" height="256" src="screenshots/homepage.png"/> -->
+<!-- <img src="screenshots/homepage.png"/> -->
 
 ## Capturas de tela: Visualização do Mapa da Propriedade
 

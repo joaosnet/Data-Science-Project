@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaosnet/Data-Science-Project?style=for-the-badge)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/joaosnet/Data-Science-Project/blob/master/README.pt-br.md)
 
-<!-- <img align="right" height="256" src="screenshots/homepage.png"/> -->
+<!-- <img src="screenshots/homepage.png"/> -->
 
 ## Screenshot: Property Map View
 
