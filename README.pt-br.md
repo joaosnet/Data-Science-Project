@@ -7,7 +7,13 @@
 ![Pull requests abertos do Bitbucket](https://img.shields.io/bitbucket/pr-raw/joaosnet/Data-Science-Project?style=for-the-badge)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/joaosnet/Data-Science-Project/blob/master/README.md)
 
-<img align="right" height="256" src="screenshots/homepage.png"/>
+<!-- <img align="right" height="256" src="screenshots/homepage.png"/> -->
+
+## Capturas de tela: Visualização do Mapa da Propriedade
+
+![Visualização do Mapa da Propriedade](/screenshots/Property-Map-View.png)
+
+_Figura 1: Visualização do Mapa da Propriedade_
 
 ## Contexto
 
@@ -18,14 +24,6 @@ Você cria seu perfil de anfitrião (pessoa que disponibiliza uma propriedade pa
 Nesse anúncio, o anfitrião deve descrever as características da propriedade o mais detalhadamente possível, a fim de ajudar os locatários/viajantes a escolher a melhor propriedade para eles (e tornar seu anúncio mais atraente).
 
 Existem várias personalizações disponíveis para o seu anúncio, desde requisitos de estadia mínima, preço, número de quartos, até políticas de cancelamento, taxas extras para hóspedes adicionais, requisitos de verificação de identidade para locatários, etc.
-
-## Capturas de tela
-
-### Captura de tela 1: Visualização do Mapa da Propriedade
-
-![Visualização do Mapa da Propriedade](/screenshots/Property-Map-View.png)
-
-_Figura 1: Visualização do Mapa da Propriedade_
 
 ## Nosso Objetivo
 

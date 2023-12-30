@@ -7,7 +7,13 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaosnet/Data-Science-Project?style=for-the-badge)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/joaosnet/Data-Science-Project/blob/master/README.pt-br.md)
 
-<img align="right" height="256" src="screenshots/homepage.png"/>
+<!-- <img align="right" height="256" src="screenshots/homepage.png"/> -->
+
+## Screenshot: Property Map View
+
+![Property Map View](/screenshots/Property-Map-View.png)
+
+_Figure 1: Property Map View_
 
 ## Context
 
@@ -18,14 +24,6 @@ You create your host profile (person who makes a property available for daily re
 In this listing, the host must describe the property's characteristics as thoroughly as possible, in order to help renters/travelers choose the best property for them (and to make their listing more attractive).
 
 There are numerous customizations available for your listing, ranging from minimum stay requirements, price, number of rooms, to cancellation policies, extra fees for additional guests, identity verification requirements for renters, etc.
-
-## Screenshots
-
-### Screenshot 1: Property Map View
-
-![Property Map View](/screenshots/Property-Map-View.png)
-
-_Figure 1: Property Map View_
 
 ## Our Goal
 
