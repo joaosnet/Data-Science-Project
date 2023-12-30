@@ -55,6 +55,13 @@ Você notará semelhanças entre a solução que desenvolveremos aqui e a dele, 
 
 Vamos explorar o quanto esses fatores impactam os preços e se existem outros fatores menos intuitivos que são extremamente importantes.
 
+## Instalação
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## 🤝 Contribuidores
 
 <table>
