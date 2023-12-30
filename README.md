@@ -1,4 +1,13 @@
-# Projeto Airbnb Rio - Property Price Prediction Tool for Ordinary People
+# Property Price Prediction Tool for Ordinary People
+
+![GitHub repo size](https://img.shields.io/github/repo-size/joaosnet/Data-Science-Project?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/joaosnet/Data-Science-Project?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/joaosnet/Data-Science-Project?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joaosnet/Data-Science-Project?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaosnet/Data-Science-Project?style=for-the-badge)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/joaosnet/Data-Science-Project/blob/master/README.pt-br.md)
+
+<img align="right" height="256" src="screenshots/homepage.png"/>
 
 ## Context
 
@@ -48,3 +57,19 @@ Let's explore how much these factors impact the prices and if there are other le
 
 ```bash
 pip install -r requirements.txt
+```
+
+## 🤝 Contributing to Property Price Prediction Tool for Ordinary People
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/jaonativi/" title="Gerente de Projetos Desenvolvedor Backend">
+        <img src="https://avatars.githubusercontent.com/u/87316339?v=4" width="100px;" alt="Foto do João Natividade no GitHub"/><br>
+        <sub>
+          <b>João Natividade</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
