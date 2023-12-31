@@ -177,3 +177,5 @@ dashapp/__pycache__/views.cpython-310.pyc
 # modelos de aprendizado de maquina
 *.joblib
 dataset/
+primeiros_registros.csv
+dados.csv
